@@ -8,15 +8,15 @@ This application would help user to conenct to the internet irrespective of syst
 Application internal console
 <br>-----------------------------</br>
 
-![img.png](media/img.png)
+<img alt="img.png" src="media/img.png"/>
 
-While finding application opening page. 
+While finding application opening page.
 
-![img_1.png](media/img_1.png)
+<img alt="img_1.png" src="media/img_1.png"/>
 
-Where we can see a list of all available networks into the drop down list. 
+Where we can see a list of all available networks into the drop down list.
 
-![img_2.png](media/img_2.png)
+<img alt="img_2.png" src="media/img_2.png"/>
 
 So practically into this application there is a scope which can help user periodically check & request for network connectivity. 
 <br>--------------------------------------------</br>
